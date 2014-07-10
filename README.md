@@ -2,6 +2,19 @@
 
 Track nutrients from the command line
 
+# Example
+
+```
+- foods:
+    banana: [kcal: 200, fat: 1g, carbs: 51g, prots: 2g]
+    egg whole fried: [kcal: 90, fat: 7g, carbs: 0g, prots: 6g]
+
+- 2010-03-31 08:00:
+    - 1 workout breakfast
+
+- 2010-04-06 10:00:
+    - 3 banana
+```
 
 ## License ([GPLv3](http://www.gnu.org/licenses/gpl-3.0.txt))
 
